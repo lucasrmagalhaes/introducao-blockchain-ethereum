@@ -49,7 +49,7 @@
         <li>
             <a 
                 href="http://remix.ethereum.org/#optimize=false&evmVersion=null&version=soljson-v0.5.17+commit.d19bba13.jsruns=200">
-                Ethereum
+                Remix - Ethereum IDE
             </a>
         </li>
         <li>
